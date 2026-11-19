@@ -6,7 +6,7 @@ public class HolaMundo {
     sumar(5, 3);
     }
     public static void saludar(String nombre) {
-    System.out.println("Hola, " + nombre + ". ¡Bienvenida al ejercicio de Git y GitHub!");
+    System.out.println("Hola, " + nombre + ". ¡Bienvenida al ejercicio de Github desktop");
     }
     public static void sumar(int a, int b) {
     int resultado = a + b;
